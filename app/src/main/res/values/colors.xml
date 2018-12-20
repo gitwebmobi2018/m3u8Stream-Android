@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#c6c6c6</color>
+    <color name="colorPrimaryDark">#585858</color>
+    <color name="colorAccent">#ff0015</color>
+
+    <!--swipe down refresh animation color-->
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="red">#ff0015</color>
+
+    <!--tab color-->
+    <color name="tabIndicatorColor">#000000</color>
+    <color name="tabSelectedTextColor">#000000</color>
+    <color name="tabTextColor">#000000</color>
+
+    <!--others-->
+    <color name="background_color">#f2f2f2</color>
+    <color name="white">#000000</color>
+    <color name="black">#000000</color>
+    <color name="text_color">#202020</color>
+    <color name="text_category_color">#5D5D5D</color>
+    <color name="text_grey">#797979</color>
+    <color name="gray_deep">#666666</color>
+    <color name="bg_category">#FF5722</color>
+    <color name="grey_soft">#F5F5F5</color>
+
+</resources>

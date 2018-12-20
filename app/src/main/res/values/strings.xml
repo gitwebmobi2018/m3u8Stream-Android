@@ -1,0 +1,101 @@
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Desenhos Online 24hs</string>
+
+    <string name="sample_action">Toggle immersive mode!</string>
+
+    <!--tab name and subtitle-->
+    <string name="tab_recent">Novos Canais</string>
+    <string name="tab_category">Categoria</string>
+    <string name="tab_favorite">Favoritos</string>
+
+    <!--AdMob Ads-->
+    <string name="admob_app_id">ca-app-pub-4362801523400123~6519886258</string>
+    <string name="admob_banner_unit_id">ca-app-pub-xxxxxxxxxxxx</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-4362801523400123/7699792906</string>
+    <string name="admob_native_ad_unit_id">ca-app-pub-4362801523400123/2907944302</string>
+
+    <!--StartApp Ads-->
+    <string name="startapp_app_id">205060168</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Novos Canais</string>
+    <string name="drawer_category">Categoria</string>
+    <string name="drawer_favorite">Favoritos</string>
+    <string name="drawer_rate">Avaliação</string>
+    <string name="drawer_more">Mais</string>
+    <string name="drawer_share">Compartilhe</string>
+    <string name="drawer_about">Sobre</string>
+    <string name="drawer_open">Abrir navegação drawer</string>
+    <string name="drawer_close">Fechar navegação drawer</string>
+
+    <!-- play store application link i.e more apps -->
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Delton+Ferreira</string>
+
+    <!--app about information-->
+    <string name="about_app_name">Desenhos Online 24hs</string>
+    <string name="about_app_version">Build Version</string>
+    <string name="about_app_email">Email</string>
+    <string name="about_app_copyright">Copyright</string>
+    <string name="about_app_rate">Avaliação</string>
+    <string name="about_app_more">Mais</string>
+    <string name="about_app_privacy_policy">Politica de Privacidade</string>
+    <string name="sub_about_app_version">Version 1.2.0</string>
+    <string name="sub_about_app_email">delton.ferreira@hotmail.com</string>
+    <string name="sub_about_app_copyright">Copyright 2017 Desenhos Online \n All rights reserved</string>
+    <string name="sub_about_app_rate">Dê sua avaliação e feedback</string>
+    <string name="sub_about_app_more">Mais app do desenvolvedor</string>
+    <string name="sub_about_app_privacy_policy">Política de privacidade do Desenhos Online App</string>
+
+    <!--search-->
+    <string name="search">Procurar</string>
+    <string name="search_hint">Procurar &#8230;</string>
+
+    <!--share-->
+    <string name="share">Compartilhar</string>
+    <string name="share_title">Eu estou assistindo Ao Vivo</string>
+    <string name="share_content">Gostaria de compartilhar isso com você. Aqui você pode baixar este aplicativo da PlayStore</string>
+
+    <!--network-->
+    <string name="failed_text">Não foi possível conectar a Internet!</string>
+    <string name="no_internet_text">Não há conexão à Internet!</string>
+    <string name="network_required">Internet necessária para assistir o canal!</string>
+
+    <!--error handling message-->
+    <string name="no_category_found">Oops, Nenhuma categoria encontrada !!</string>
+    <string name="no_post_found">Ops, nenhum canal encontrado!</string>
+    <string name="msg_search_input">Insira a palavra-chave</string>
+
+    <!--favorite-->
+    <string name="favorite_added">Adicionado ao Favorito</string>
+    <string name="favorite_removed">Removido do Favorito</string>
+    <string name="no_favorite_found">Qual é o seu favorito&#8230; ?</string>
+
+    <!--close message-->
+    <string name="press_again_to_exit">Pressione novamente para sair do aplicativo</string>
+    <string name="press_again_to_close_streaming">Pressione novamente para fechar a transmissão</string>
+
+    <string name="privacy_policy_title">Política de Privacidade</string>
+    <string name="privacy_policy_content">
+        <![CDATA[
+            <p>Política de privacidade para Desenhos Online
+Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar a sua visita no nosso site o mais produtiva e agradável possível.
+A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso site é importante para o Desenhos Online.
+Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem o Desenhos Online serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).
+A informação pessoal recolhida pode incluir o seu nome, e-mail, número de telefone e/ou telemóvel, morada, data de nascimento e/ou outros.
+O uso do Desenhos Online pressupõe a aceitação deste Acordo de privacidade. A equipa do Desenhos Online reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.
+Os anúncios
+Tal como outros websites, coletamos e utilizamos informação contida nos anúncios. A informação contida nos anúncios, inclui o seu endereço IP (Internet Protocol), o seu ISP (Internet Service Provider, como o Sapo, Clix, ou outro), o browser que utilizou ao visitar o nosso website (como o Internet Explorer ou o Firefox), o tempo da sua visita e que páginas visitou dentro do nosso website.
+Cookie DoubleClick Dart
+O Google, como fornecedor de terceiros, utiliza cookies para exibir anúncios no nosso website;
+Com o cookie DART, o Google pode exibir anúncios com base nas visitas que o leitor fez a outros websites na Internet;
+Os utilizadores podem desativar o cookie DART visitando a Política de privacidade da rede de conteúdo e dos anúncios do Google.
+Os Cookies e Web Beacons
+Utilizamos cookies para armazenar informação, tais como as suas preferências pessoas quando visita o nosso website. Isto poderá incluir um simples popup, ou uma ligação em vários serviços que providenciamos, tais como fóruns.
+Em adição também utilizamos publicidade de terceiros no nosso website para suportar os custos de manutenção. Alguns destes publicitários, poderão utilizar tecnologias como os cookies e/ou web beacons quando publicitam no nosso website, o que fará com que esses publicitários (como o Google através do Google AdSense) também recebam a sua informação pessoal, como o endereço IP, o seu ISP, o seu browser, etc. Esta função é geralmente utilizada para geotargeting (mostrar publicidade de Lisboa apenas aos leitores oriundos de Lisboa por ex.) ou apresentar publicidade direcionada a um tipo de utilizador (como mostrar publicidade de restaurante a um utilizador que visita sites de culinária regularmente, por ex.).
+Você detém o poder de desligar os seus cookies, nas opções do seu browser, ou efetuando alterações nas ferramentas de programas Anti-Virus, como o Norton Internet Security. No entanto, isso poderá alterar a forma como interage com o nosso website, ou outros websites. Isso poderá afetar ou não permitir que faça logins em programas, sites ou fóruns da nossa e de outras redes.</p>
+        ]]>
+    </string>
+
+</resources>
